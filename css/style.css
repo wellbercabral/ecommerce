@@ -1,6 +1,12 @@
-@charset 'utf-8'
+@charset "utf-8";
 
 body {
 	font: 14px Arial, sans-serif;
-	color: #fc0
+	color: #fc0;
+}
+
+.main {
+	display: flex;
+	height: 100%;
+	width: 100%;
 }
